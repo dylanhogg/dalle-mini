@@ -1,0 +1,17 @@
+jupyterlab
+ipywidgets
+transformers
+einops
+unidecode
+ftfy
+emoji
+pillow
+jax
+flax
+wandb
+tqdm
+optax
+braceexpand
+datasets[streaming]
+black[jupyter]
+isort
